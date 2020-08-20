@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Basic__ knowledge of Brazilian Portuguese 
+
+Experienced ESL teacher *(Over 5 years)*
+
+*test* **testing** _test_ 
+
+:sparkles:
