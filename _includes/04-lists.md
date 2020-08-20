@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* My dog Sue 
+* Going to the beach 
+* Eating out 
+* Vinho Verde 
